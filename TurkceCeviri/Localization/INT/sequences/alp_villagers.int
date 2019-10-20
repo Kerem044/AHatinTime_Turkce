@@ -1,55 +1,55 @@
-[AlpsHUB]
-TimePieceDirection0 = Have you noticed those bright flashing lights in the sky?
-TimePieceDirection1 = They started appearing recently after some [icon:timepiece][timepiece]weird hourglasses[/timepiece] fell from the sky. Wonder what they could be?
-TimePieceDirection2 = In any case, I really wish they wouldn't be so bright. They're blinding!
+r[AlpsHUB]
+TimePieceDirection0 = Gökyüzünde Parlayan Işıkları Sen De Fark Ettin Mi??
+TimePieceDirection1 = Havadan [icon:timepiece][timepiece]garip kumsaatleri[/timepiece] düşmeye başladıktan sonra oluşmaya başladılar. Acaba ne olabilirler?
+TimePieceDirection2 = Her ne olursa olsun, keşke bu kadar parlak olmasalardı!
 
 [finale]
-finale0 = Is it... over? The air is clear again! 
-finale1 = And the goats seem to have come to their senses again. I don't really understand it, but I assume we have you to thank!
-finale2 = We found this in a cluster of those flowers after they wilted again. You were pretty insistent in going after the others, so I guess it belongs to you?
-finale3 = Thank you for helping us!
+finale0 = Bitti... mi? Hava tekrardan temiz! 
+finale1 = Ve keçiler kendilerine gelmiş gibiler. Ne olduğunu tam olarak anlamadım ama, sanırım sana teşekkür borçluyuz!
+finale2 = Bunu o garip çiçeklerin arasında buldum. Öbürlerinin peşinden gitmeye kararlıydın, yani galiba sana ait?
+finale3 = Bize yardım ettiğin için teşekkürler!
 
 [Guides]
-guide_lavacake0 = This way for[br]the [name]Lava Cake[/name]!
-guide_lavacake1 = This heat is great! [br]It's even hotter to [br]the [hint]right[/hint]!
-guide_lavacake2 = This is the [br][name]Lava Cake[/name]!
-guide_lavacake3 = How'd a place end up [br]like this, anyway?
-guide_windmill0 = The [name]Old Windmill[/name][br]is this way!
-guide_windmill1 = This place is huge! It must be quite a climb [br]to the [hint]top[/hint].
-guide_twilight0 = The [name]Twilight Bell[/name][br]is this way!
-guide_twilight1 = The [name]Twilight Bell[/name][br]is just ahead!
-guide_twilight2 = Look at that thing![br]If only I could reach it.
-guide_birdhouse0 = The birds at[br][name]The Birdhouse[/name][br]steal shiny things!
-guide_birdhouse1 = [name]The Birdhouse[/name] is this way!
-guide_birdhouse2 = You're nearly at [br][name]The Birdhouse[/name]!
-guide_horn0 = Blow those horns[br]to open up[br]new routes!
-guide_horn1 = There's a[br][hint]horn[/hint] at[br]the top!
-guide_binocs0 = These telescopes [br]let you look at [br]far-away peaks!
-guide_deadend0 = Hey! This way doesn't [br]lead to any [hint]peaks[/hint].
-guide_deadend1 = I think this one leads to a [hint]horn[/hint]. [br]You can just see it!
-guide_deadend2 = I think I spy [br]some [hint]treasure[/hint]!
-guide_deadend3 = I don't think any [br][hint]hourglasses[/hint] [br]fell this way.
-guide_zipline0 = Make sure you swing [br][hint]towards[/hint] the path [br]you want!
-guide_bridge0 = Careful! Some of these [hint]bridges[/hint] are old.
-guide_cats0 = Take care, kid. I went up ahead and was [br]scratched slightly!
-guide_cats1 = I'd hold onto that [br][icon:hat] of yours here!
-guide_eggs0 = There's something [br]strange about some [br]of those eggs!
-guide_danger0 = Hi! This is clearly a [br]safe place for a [br]child to be.
+guide_lavacake0 = Burası[name]Lava Cake[/name]'ye çıkıyor!
+guide_lavacake1 = Isı çok güzel! [br]Hatta [hint]sağa doğru[/hint][br]daha da sıcak!
+guide_lavacake2 = Burası [br][name]Lava Cake[/name]!
+guide_lavacake3 = Böyle bir yer [br]nasıl bu hale geldi ki?
+guide_windmill0 =  ame]Old Windmill[/name][br]bu tarafta!
+guide_windmill1 = Burası çok büyük! [hint]Yukarıya[/hint] çıkması zor olmalı.
+guide_twilight0 = [name]Twilight Bell[/name][br]bu tarafta!
+guide_twilight1 = [name]Twilight Bell[/name][br]hemen ileride!
+guide_twilight2 = Şu şeye bir bak![br]Keşke ona uzanabilsem.
+guide_birdhouse0 = [br][name]The Birdhouse[/name]'daki kuşlar[br]parlak şeyleri çalarlar!
+guide_birdhouse1 = [name]The Birdhouse[/name] bu tarafta!
+guide_birdhouse2 = Neredeyse [br][name]The Birdhouse[/name]'dasın!
+guide_horn0 = Yeni [br]rotalar açmak için[br]borulara üfle!
+guide_horn1 = [br][hint]Boru[/hint] [br]Yukarıda!
+guide_binocs0 = Bu teleskoplar [br]uzaktaki şeyleri [br]görebilmeni sağlar!
+guide_deadend0 = Hey! Burası  [br]hiçbir [hint]zirveye[/hint] çıkmıyor.
+guide_deadend1 = Sanırım burası bir [hint]Boru'ya[/hint] çıkıyor. [br]Buradan görebiliyorum!
+guide_deadend2 = Sanırım [br]bir [hint]hazine[/hint] görüyorum!
+guide_deadend3 = Buraya hiçbir [br][hint]kumsaati'nin[/hint] [br]düştüğünü zannetmiyorum.
+guide_zipline0 = İstediğin yöne doğru [br][hint]dönmeyi[/hint] unutma!
+guide_bridge0 = Dikkatli ol! Bazı [hint]köprüler[/hint] çok eski.
+guide_cats0 = Dikkatli ol çocuk. Yukarıya çıktım ve [br]komumu çizdim!
+guide_cats1 = Ben senin [br][icon:hat]'an tutunayım!
+guide_eggs0 =Buradaki [br]yumurtalarda [br]bir gariplik var!
+guide_danger0 = Merhaba. Burası kesinlikle [br]bir çocuk için[br] güvenli.
 
 [PeakSize]
-size0 = There's a lot of really big structures up on these peaks.
-size1 = I wonder who built them? 
-size2 = ... Birds don't build birdhouses, right?
+size0 = Bu zirvelerin üstlerinde birkaç yapı var.
+size1 = Acaba onları kim inşa etti? 
+size2 = ... Kuşlar kulübe yapamazlar değil mi?
 
 [Flowers]
-flowers0 = Have you seen the purple flowers growing around here?
-flowers1 = I'd keep your distance. Something seems weird about them to me.
+flowers0 = Buradaki mor çiçekleri gördün mü?
+flowers1 = Onlarla olan mesafeni koru. Onlarla ilgili kötü bir şeyler seziyorum.
 
 [Horns]
-explanation0 = Why don't we blow the horns ourselves?
-explanation1 = Up this high, the air is really thin! It's hard for us to take deep enough breaths.
-explanation2 = It doesn't seem to bother you, though. 
+explanation0 = Neden mi biz boruları üflemiyoruz?
+explanation1 = Yukarıdaki hava çok ince! Üflemek için yeterli nefes alamıyoruz.
+explanation2 = Fakat sanırım bu seni etkilemiyor. 
 
 [Goats]
-goats0 = I don't know much about the goats up here, but we try to give them a wide berth.
-goats1 = If you get in their way, they tend to be a bit pushy.
+goats0 = Buradaki keçiler hakkında çok şey bilmiyoruz fakat aynı zamanda onlara geniş yataklıklar vermeye çalışıyoruz.
+goats1 = Eğer yollarına çıkarsan biraz kaba olabilirler.
