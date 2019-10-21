@@ -6,45 +6,45 @@ SystemSetting_Requires_Restart = Bu ayarın uygulanması için oyunun yeniden ba
 SystemSetting_ArtStyle_Warning = Uyarı: Oyunun çizimi bu ayar aktif varsayılarak ayarlanmıştır. Bu ayarı kapatmak çok az performans verir. Bu ayarın varsayılan değerde kalmasını öneriyoruz; sadece kesinlikle eminseniz kapatın.
 SystemSetting_Gameplay_Warning = Not: Bu ayarın varsayılan kalması önerilir.
 SystemSetting_Confirm = ONAYLA
-SystemSetting_Back = GERI
+SystemSetting_Back = GERİ
 
 [systemsettings.main]
 GameSettings_Title = Oyun Ayarları
 GameSettings_Desc = Oynanışa bağlı ayarları değiştirir.
 
-GameSettings_Icon_Singleplayer = Tek Oyunculu
+GameSettings_Icon_Singleplayer = TEK OYUNCULU
 GameSettings_Icon_SplitScreen = CO-OP
-GameSettings_Icon_SystemSettings = Sistem Ayarları
-GameSettings_Icon_SystemSettings_Console = Ayarlar
+GameSettings_Icon_SystemSettings = SİSTEM AYARLARI
+GameSettings_Icon_SystemSettings_Console = AYARLAR
 GameSettings_Icon_Camera = Kamera
 
-GraphicsSettings_Title = Grafik Ayarları
+GraphicsSettings_Title = GRAFİK AYARLARI
 GraphicsSettings_Title_Console = Görsel Ayarlar
 GraphicsSettings_Desc = Oyunun görünüşüne ve performansına bağlı ayarları değiştirin.
 GraphicsSettings_Desc_Console = Oyunun görsel sunumunu ayarlayın.
 
-GraphicsSettings_Icon_Performance = Performans
-GraphicsSettings_Icon_Rendering = Renderlama
-GraphicsSettings_Icon_Effects = Efektler
-GraphicsSettings_Icon_Brightness = Parlaklık
-GraphicsSettings_Icon_ColorBlindness = Renk Körlüğü
+GraphicsSettings_Icon_Performance = PERFORMANS
+GraphicsSettings_Icon_Rendering = RENDERLAMA
+GraphicsSettings_Icon_Effects = EFEKLER
+GraphicsSettings_Icon_Brightness = PARLAKLIK
+GraphicsSettings_Icon_ColorBlindness = RENK KÖRLÜĞÜ
 
-AudioSettings_Title = Ses Ayarları
+AudioSettings_Title = SES AYARLARI
 AudioSettings_Desc = Her tür sesi ayarlayın.
 
-AudioSettings_Icon_VoiceActing = Konuşma Sesleri
-AudioSettings_Icon_Volume = Ses
-AudioSettings_Icon_Music = Müzik
+AudioSettings_Icon_VoiceActing = KONUŞMA SESLERİ
+AudioSettings_Icon_Volume = SES
+AudioSettings_Icon_Music = MÜZİK
 
-InputSettings_Title = Girdi Ayarları
+InputSettings_Title = GİRDİ AYARLARI
 InputSettings_Desc = Girdi ayarlarınızı değiştirin, yeni oyun kolları ekleyin veya tuşları değiştirin.
 InputSettings_Desc_Console = Kontrol ayarlarını değiştirin.
 
-InputSettings_Icon_KeyBinds = Girdi Yardımcısı
-InputSettings_Icon_Controllers = Kontrolcüler
-InputSettings_Icon_Controllers_PS4 = Kablosuz Kontrolcü
-InputSettings_Icon_Controllers_XBOX = Kontrolcü
-InputSettings_Icon_InvertAxis = Ekseni çevir
+InputSettings_Icon_KeyBinds = GİRDİ YARDIMCISI
+InputSettings_Icon_Controllers = KONTROLCÜLER
+InputSettings_Icon_Controllers_PS4 = KABLOSUZ KONTROLCÜ
+InputSettings_Icon_Controllers_XBOX = KONTROLCÜ
+InputSettings_Icon_InvertAxis = EKSENİ ÇEVİR
 
 [systemsettings.game]
 Header_Singleplayer = Tek Oyuncu
