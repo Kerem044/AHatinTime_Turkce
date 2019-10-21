@@ -624,20 +624,20 @@ ModVersion = Version
 HowToAccessLevelMods = Mod Levels can be accessed in the[br]Spaceship mail room once you have[br]the following:
 VisitModMenu = Visit the mail room to give it a try!
 
-PreviewButtonsText_Play = Play!
-PreviewButtonsText_RePlay = Re-play!
-PreviewButtonsText_Enable = Enable
+PreviewButtonsText_Play = Oyna!
+PreviewButtonsText_RePlay = Tekrar Oyna!
+PreviewButtonsText_Enable = Aktif
 PreviewButtonsText_Config = Configure
-PreviewButtonsText_Install = Install
-PreviewButtonsText_Unsubscribe = Uninstall
-PreviewButtonsText_CancelDownload = Cancel
-PreviewButtonsText_ViewInWorkshop = View in Workshop
+PreviewButtonsText_Install = Kur
+PreviewButtonsText_Unsubscribe = Kaldır
+PreviewButtonsText_CancelDownload = İptal
+PreviewButtonsText_ViewInWorkshop = Workshop'a Göz At!
 
-Category_Levels = LEVELS
-Category_AllLevels = ALL LEVELS
+Category_Levels = BÖLÜMLER
+Category_AllLevels = TÜM BÖLÜMLER
 Category_Chapters = CHAPTERS
-Category_TimeRifts = TIME RIFTS
-Category_HatsAndBadges = HATS & BADGES
+Category_TimeRifts = KUM SAATİ 
+Category_HatsAndBadges = ŞAPKALAR & İPLİKLER
 Category_Collectibles = COLLECTIBLES
 Category_Misc = MISC
 Category_Featured = FEATURED
@@ -648,7 +648,7 @@ Category_ChallengeRoad_Clear0 = You did it, congratulations!
 Category_ChallengeRoad_Clear1 = A new Challenge Road will appear in the near future...
 
 [ConsoleProfileSwap]
-SwapProfile = Switch Profile
+SwapProfile = Profili Değiştir
 
 [Action]
 Action_Delete = Sil
@@ -697,33 +697,33 @@ rifts = Six new Time Rifts!
 unlocks0 = Tons of unlockable outfits, flairs,
 unlocks1 = dyes, and even camera filters!
 
-coop_title = New feature: Co-op
+coop_title = Yeni Açılan: CO-OP
 coop_bullet0 = Play the entire adventure
 coop_bullet1 = and help eachother to survive
 coop_bullet2 = in split-screen shenanigans!
 
-dlc2_title = New: Nyakuza Metro
+dlc2_title = Yeni: Nyakuza Metro'su
 dlc2_bullet0 = Collect 10 all-new Time Pieces
 dlc2_bullet1 = in the dangerous metro tunnels
 dlc2_bullet2 = where The Empress is in control!
 
-ghostparty_title = New: Online Party
+ghostparty_title = Yeni: Çevrimiçi Parti
 ghostparty_bullet0 = Play with up to 50 friends
 ghostparty_bullet1 = or strangers in this
 ghostparty_bullet2 = new online mode!
 
-newgamebowkid_title = Thank you!
+newgamebowkid_title = Teşekkür ederim!
 newgamebowkid_bullet0 = Thank you for being a superfan!
 newgamebowkid_bullet1 = You can now start a new adventure
 newgamebowkid_bullet2 = with Bow Kid as the main star!
 
-featuremodmap_title = New featured community level
+featuremodmap_title = Yeni açılan topluluk yeni bölüm
 challengeroad_title = New challenge road!
 
 [Splash]
-Splash_Close = Close
-Splash_Next = Next
-Splash_ViewStorePage = View Store Page
+Splash_Close = Kapat
+Splash_Next = Sonraki
+Splash_ViewStorePage = Mağaza Sayfasına Bak
 Splash_ViewStorePage_NintendoSwitch = Nintendo eShop
 
 [DeathWishMap]
