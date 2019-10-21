@@ -1,120 +1,119 @@
 [systemsettings.global]
-SystemSetting_DefaultValue = Default:
-SystemSetting_Value_Checked = Checked
-SystemSetting_Value_Unchecked = Unchecked
-SystemSetting_Requires_Restart = This setting requires a restart to take effect.
-SystemSetting_ArtStyle_Warning = Warning: The art style of the game was designed with this feature on. Turning it off provides very little performance gain. We recommend this option is left at its default value; only turn it off if you're absolutely sure.
-SystemSetting_Gameplay_Warning = Note: This setting is recommended to be left at default.
-SystemSetting_Confirm = CONFIRM
-SystemSetting_Back = BACK
+SystemSetting_DefaultValue = Varsayılan:
+SystemSetting_Value_Checked = İşaretlenmiş
+SystemSetting_Value_Unchecked = İşaretlenmemiş
+SystemSetting_Requires_Restart = Bu ayarın uygulanması için oyunun yeniden başlatılması gereklidir.
+SystemSetting_ArtStyle_Warning = Uyarı: Oyunun çizimi bu ayar aktif varsayılarak ayarlanmıştır. Bu ayarı kapatmak çok az performans verir. Bu ayarın varsayılan değerde kalmasını öneriyoruz; sadece kesinlikle eminseniz kapatın.
+SystemSetting_Gameplay_Warning = Not: Bu ayarın varsayılan kalması önerilir.
+SystemSetting_Confirm = KABUL
+SystemSetting_Back = GERI
 
 [systemsettings.main]
 GameSettings_Title = Oyun Ayarları
-GameSettings_Desc = Adjust settings related to gameplay.
+GameSettings_Desc = Oynanışa bağlı ayarları değiştirir.
 
 GameSettings_Icon_Singleplayer = Tek Oyunculu
 GameSettings_Icon_SplitScreen = CO-OP
 GameSettings_Icon_SystemSettings = Sistem Ayarları
-GameSettings_Icon_SystemSettings_Console = Preferences
+GameSettings_Icon_SystemSettings_Console = Ayarlar
 GameSettings_Icon_Camera = Kamera
 
 GraphicsSettings_Title = Grafik Ayarları
-GraphicsSettings_Title_Console = Visual Settings
-GraphicsSettings_Desc = Adjust graphical settings that affect the game's visuals and performance.
-GraphicsSettings_Desc_Console = Adjust the game's visual presentation.
+GraphicsSettings_Title_Console = Görsel Ayarlar
+GraphicsSettings_Desc = Oyunun görünüşüne ve performansına bağlı ayarları değiştirin.
+GraphicsSettings_Desc_Console = Oyunun görsel sunumunu ayarlayın.
 
 GraphicsSettings_Icon_Performance = Performans
-GraphicsSettings_Icon_Rendering = Rendering
+GraphicsSettings_Icon_Rendering = Renderlama
 GraphicsSettings_Icon_Effects = Efektler
-GraphicsSettings_Icon_Brightness = Brightness
-GraphicsSettings_Icon_ColorBlindness = Color Blindness
+GraphicsSettings_Icon_Brightness = Parlaklık
+GraphicsSettings_Icon_ColorBlindness = Renk Körlüğü
 
 AudioSettings_Title = Ses Ayarları
-AudioSettings_Desc = Adjust the volume of each type of audio.
+AudioSettings_Desc = Her tür sesi ayarlayın.
 
-AudioSettings_Icon_VoiceActing = Voice Acting
-AudioSettings_Icon_Volume = Volume
+AudioSettings_Icon_VoiceActing = Konuşma Sesleri
+AudioSettings_Icon_Volume = Ses
 AudioSettings_Icon_Music = Müzik
 
-InputSettings_Title = Input Settings
-InputSettings_Desc = Change your input methods, add new gamepads or rebind keys.
-InputSettings_Desc_Console = Adjust settings related to controls.
+InputSettings_Title = Girdi Ayarları
+InputSettings_Desc = Girdi ayarlarınızı değiştirin, yeni oyun kolları ekleyin veya tuşları değiştirin.
+InputSettings_Desc_Console = Kontrol ayarlarını değiştirin.
 
-InputSettings_Icon_KeyBinds = Input Assist
-InputSettings_Icon_Controllers = Controllers
-InputSettings_Icon_Controllers_PS4 = Wireless controller
-InputSettings_Icon_Controllers_XBOX = Controller
-InputSettings_Icon_InvertAxis = Invert Axis
+InputSettings_Icon_KeyBinds = Girdi Yardımcısı
+InputSettings_Icon_Controllers = Kontrolcüler
+InputSettings_Icon_Controllers_PS4 = Kablosuz Kontrolcü
+InputSettings_Icon_Controllers_XBOX = Kontrolcü
+InputSettings_Icon_InvertAxis = Ekseni çevir
 
 [systemsettings.game]
 Header_Singleplayer = Tek Oyuncu
 
-Item_SpeedrunTimer_Title = Speedrun Timer
-Item_SpeedrunTimer_Desc = Keeps track of your per-level play time.
-Item_SpeedrunTimer_Item_Off = Off
-Item_SpeedrunTimer_Item_On = On
-Item_SpeedrunTimer_Item_GameOnly = Game Timer Only
-Item_SpeedrunTimer_Item_ActOnly = Act Timer Only
+Item_SpeedrunTimer_Title = Speedrun Sayacı
+Item_SpeedrunTimer_Desc = Her level için bitirme sürenizi sayar.
+Item_SpeedrunTimer_Item_Off = Kapalı
+Item_SpeedrunTimer_Item_On = Açık
+Item_SpeedrunTimer_Item_GameOnly = Sadece Oyun Süresi
+Item_SpeedrunTimer_Item_ActOnly = Sadece Bölüm Süresi
 
 Item_Language_Title = Dil
-Item_Language_Desc = The language that text will appear in. Does not change voice acting (you can adjust voice acting in Audio Settings).
+Item_Language_Desc = Yazının sunulacağı dil. Konuşma sesini etkilemez (Konuşma ayarını ses ayarlarından değiştirebilirsiniz).
 
-Item_SkipCinematics_Title = Auto Skip Skippable Cutscenes
-Item_SkipCinematics_Desc = If you're in a hurry, or have already seen them, you can skip all skippable in-game cutscenes by enabling this. Keep in mind that you can still skip cinematics at any time regardless of this setting.
+Item_SkipCinematics_Title = Atlanabilir Sahneleri Atla
+Item_SkipCinematics_Desc = Eğer acelen varsa, veya oyunu zaten bitirmişsen bu ayar senin için tüm sahneleri atlar. Sinematikleri bu ayar açık olmasa bile atlayabileceğinizi unutmayın.
 
 
-Header_Accessibility = Accessibility
+Header_Accessibility = Erişilebilirlik
 
-Item_AssistMode_Title = Assist Mode
-Item_AssistMode_Desc = With assist mode on, some elements of the game have been made a bit more accessible, and you'll recover health after a short bit. There is no penalty for turning on this mode.
+Item_AssistMode_Title = Yardımcı Mod
+Item_AssistMode_Desc = Yardımcı mod açıkken oyunun bazı bölümleri daha erişilebilir olur, 8 canın olur ve yerinde durursan canın yenilenir. Bu modu açmak hiçbir şekilde hikayeyi etkilemeyecektir.
 
 Header_SplitScreen = CO-OP
 
-Item_SplitScreenMethod_Title = Split Screen Alignment
-Item_SplitScreenMethod_Item_Horizontal = Horizontal
-Item_SplitScreenMethod_Item_Vertical = Vertical
-Item_SplitScreenMethod_Desc = Change the way the screen is split with two players.
+Item_SplitScreenMethod_Title = Ekran Ayırma
+Item_SplitScreenMethod_Item_Horizontal  Yatay
+Item_SplitScreenMethod_Item_Vertical = Dikey
+Item_SplitScreenMethod_Desc = Çift oyunculuda ekranın nasıl bölüneceğini seçin.
 
-Item_VersusModeAlways_Title = Enable Versus Mode
-Item_VersusModeAlways_Desc = Activates Versus Mode whenever Split Screen Coop is enabled.
+Item_VersusModeAlways_Title = Savaş Modu
+Item_VersusModeAlways_Desc = Çift ekran aktifken oyuncuların savaşabilmesini sağlar.
 
-Item_CoopIsSplitScreen_Title = FullScreen Co-op
-Item_CoopIsSplitScreen_Desc = Keep both players on one screen instead of split-screen co-op.
+Item_CoopIsSplitScreen_Title = Tam Ekran Co-op
+Item_CoopIsSplitScreen_Desc = Ekranı bölmek yerine her oyuncuyu tek ekranda tut.
 
-Header_GhostParty = Online Parti
+Header_GhostParty = Çevrimiçi Parti
 
-Item_GhostPartyDisplay_Title = Display Player Names & Avatars
-Item_GhostPartyDisplay_Desc = Hides the names and avatars of other online players, to reduce the risk of any profanity or harmful material being visible. Recommended for streamers.
+Item_GhostPartyDisplay_Title = Oyuncuların isimlerini ve avatarlarını görüntüle
+Item_GhostPartyDisplay_Desc = Kötü söz ve resimleri engellemek için oyuncuların isimleri ve avatarları görüntülenmez. Yayıncılar için önerilir.
 
-Item_PlayRemotePlayerEmoteSounds_Title = Other Player Emote Sounds
-Item_PlayRemotePlayerEmoteSounds_Desc = When off, will not play sounds for emotes used by other players.
+Item_PlayRemotePlayerEmoteSounds_Title = Başka oyuncuların tepki sesleri
+Item_PlayRemotePlayerEmoteSounds_Desc = Kapalıyken başka oyuncuların tepki seslerini duyamazsınız.
 
-Item_GhostPartyDisplay_None = Show Neither
-Item_GhostPartyDisplay_Name = Names Only
-Item_GhostPartyDisplay_Avatar = Avatars Only
-Item_GhostPartyDisplay_Both = Show Both
+Item_GhostPartyDisplay_None = Hiçbirini Gösterme
+Item_GhostPartyDisplay_Name = Sadece İsimler
+Item_GhostPartyDisplay_Avatar = Sadece Avatarlar
+Item_GhostPartyDisplay_Both = İkisi de
 
-Header_Camera = Camera
-Header_Camera_Adv = Advanced Camera
+Header_Camera = Kamera
+Header_Camera_Adv = Gelişmiş Kamera
 
-Item_FieldOfView_Title = Field of View
-Item_FieldOfView_Item_TV = TV (80)
-Item_FieldOfView_Item_PC = PC Monitor (90)
-Item_FieldOfView_Item_Custom = Custom...
-Item_FieldOfView_Item_Desc = Higher Field of View (FoV) values widen your peripheral vision, while lower values narrow it. Higher FoV values are recommended for when you're close to the display, while lower values are recommended when you're at a distance.
+Item_FieldOfView_Title = Görüş Alanı
+Item_FieldOfView_Item_TV = Televizyon (80)
+Item_FieldOfView_Item_PC = Bilgisayar (90)
+Item_FieldOfView_Item_Custom = El İle...
+Item_FieldOfView_Item_Desc = Görüş alanı (FoV) ne kadar artarsa ekranda o kadar şey görünürken ne kadar azalırsa o kadar az şey görünür. Eğer ekrana yakınsanız görüş alanınızı yükseltmeniz, uzaksanız düşürmeniz önerilir.
 
-Item_CameraAssist_Title = Camera Assist
-Item_CameraAssist_Desc = When enabled, allows the game to contextually control your camera for a better experience. Recommended if you dislike manual camera controls.
+Item_CameraAssist_Title = Kamera Yardımı
+Item_CameraAssist_Desc = Aktifken oyun sizin için kamerayı düzenler. El ile (sürekli) kamera döndürmek istemeyenler için önerilir.
 
-Item_CameraShake_Title = Camera Shake
-Item_CameraShake_Desc = Turn on to feel the true realism of earthquakes as your screen vibrates slightly. Turn off to stop feeling nauseous.
-
-Item_ControllerTopDown_Title = Top-Down Camera
-Item_ControllerTopDown_Desc = If enabled, the camera will zoom out to a bird's-eye view. If disabled, the camera will rotate freely.
-Item_ControllerTopDown_Item_None = None
-Item_ControllerTopDown_Item_Controller = Controller Only
-Item_ControllerTopDown_Item_Mouse = Mouse Only
-Item_ControllerTopDown_Item_All = Both
+Item_CameraShake_Title = Kamera Sarsıntısı
+Item_CameraShake_Desc = Kameranın sarsılmasıyla deneyim yaşayın. Kusacakmış gibi hissetmemeye başlamak için kapatın.
+Item_ControllerTopDown_Title = Kuş Bakışı Kamera
+Item_ControllerTopDown_Desc = Eğer açılırsa kamera kuş bakışı moduna geçer. Kapatılırsa kamera serbestçe dönebilir.
+Item_ControllerTopDown_Item_None = Hiçbiri
+Item_ControllerTopDown_Item_Controller = Sadece Kontrolcü
+Item_ControllerTopDown_Item_Mouse = Sadece Fare
+Item_ControllerTopDown_Item_All = İkisi de
 
 Item_CameraSmoothRotation_Title = Camera Smoothing
 Item_CameraSmoothRotation_Desc = Smoothly moves the camera rotation to the desired angle. This helps reduce jitteriness as well as motion sickness (especially for any third parties watching). Effect is most noticeable with a mouse. Off for raw input.
