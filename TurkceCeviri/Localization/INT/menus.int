@@ -5,7 +5,7 @@ SystemSetting_Value_Unchecked = İşaretlenmemiş
 SystemSetting_Requires_Restart = Bu ayarın uygulanması için oyunun yeniden başlatılması gereklidir.
 SystemSetting_ArtStyle_Warning = Uyarı: Oyunun çizimi bu ayar aktif varsayılarak ayarlanmıştır. Bu ayarı kapatmak çok az performans verir. Bu ayarın varsayılan değerde kalmasını öneriyoruz; sadece kesinlikle eminseniz kapatın.
 SystemSetting_Gameplay_Warning = Not: Bu ayarın varsayılan kalması önerilir.
-SystemSetting_Confirm = KABUL
+SystemSetting_Confirm = ONAYLA
 SystemSetting_Back = GERI
 
 [systemsettings.main]
