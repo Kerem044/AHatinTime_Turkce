@@ -115,15 +115,15 @@ Item_ControllerTopDown_Item_Controller = Sadece Kontrolcü
 Item_ControllerTopDown_Item_Mouse = Sadece Fare
 Item_ControllerTopDown_Item_All = İkisi de
 
-Item_CameraSmoothRotation_Title = Camera Smoothing
-Item_CameraSmoothRotation_Desc = Smoothly moves the camera rotation to the desired angle. This helps reduce jitteriness as well as motion sickness (especially for any third parties watching). Effect is most noticeable with a mouse. Off for raw input.
-Item_CameraSmoothRotation_Desc_Console = Smoothly moves the camera rotation to the desired angle. This helps reduce jitteriness as well as motion sickness (especially for any third parties watching).
-Item_CameraSmoothRotation_Item_VerySlow = Very Slow
-Item_CameraSmoothRotation_Item_Slow = Slow
-Item_CameraSmoothRotation_Item_Medium = Medium
-Item_CameraSmoothRotation_Item_Fast = Fast
-Item_CameraSmoothRotation_Item_VeryFast = Very Fast
-Item_CameraSmoothRotation_Item_Off = Off
+Item_CameraSmoothRotation_Title = Kamera Düzeltme
+Item_CameraSmoothRotation_Desc = Kamera dönüşünü yumuşakça istenen açıya getirir. Bu, rahatsız olan kişiler için titremeyi azaltır (özellikle izleyen üçüncü şahıslar için). Efekt fare ile daha belirgindir. Ham giriş için kapalı
+Item_CameraSmoothRotation_Desc_Console = Kamera dönüşünü yumuşakça istenen açıya getirir. Bu, rahatsız olan kişiler için titremeyi azaltır (özellikle izleyen üçüncü şahıslar için).
+Item_CameraSmoothRotation_Item_VerySlow = Çok Yavaş
+Item_CameraSmoothRotation_Item_Slow = Yavaş
+Item_CameraSmoothRotation_Item_Medium = Orta
+Item_CameraSmoothRotation_Item_Fast = Hızlı
+Item_CameraSmoothRotation_Item_VeryFast = Çok Hızlı
+Item_CameraSmoothRotation_Item_Off = Kapalı
 Item_CameraSmoothRotation_Item_Instant = Instant
 
 Item_CameraFocusDuration_Title = Camera Snap Speed
