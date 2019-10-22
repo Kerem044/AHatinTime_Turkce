@@ -4,4 +4,4 @@ A Hat in Time'ın son sürümünün Türkçe sürümü
 Çeviri tamamlandığı zaman halka açılacaktır.
 
 Son Durum: Çeviriliyor.
-İlerleme Durumu: 02%
+İlerleme Durumu: 06%
