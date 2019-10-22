@@ -129,13 +129,13 @@ Item_CameraSmoothRotation_Item_Instant = Instant
 Item_CameraFocusDuration_Title = Camera Snap Speed
 Item_CameraFocusDuration_Desc = When you press the camera snap button, the camera moves behind you. This setting controls how fast that movement is.
 
-Item_CameraDistance_Title = Camera Distance
-Item_CameraDistance_Desc = Controls how far away the camera is from the player by default.
-Item_CameraDistance_Item_VeryClose = Very Close
-Item_CameraDistance_Item_Close = Close
-Item_CameraDistance_Item_Standard = Standard
-Item_CameraDistance_Item_Far = Far
-Item_CameraDistance_Item_VeryFar = Very Far
+Item_CameraDistance_Title = Kamera Mesafesi
+Item_CameraDistance_Desc = Kameranın oyuncudan varsayılan mesafeye göre ne kadar uzakta olduğunu kontrol eder.
+Item_CameraDistance_Item_VeryClose = Çok Yakın
+Item_CameraDistance_Item_Close = Yakın
+Item_CameraDistance_Item_Standard = Standart
+Item_CameraDistance_Item_Far = Uzak
+Item_CameraDistance_Item_VeryFar = Çok Uzak
 
 Item_CameraZoomRestore_Title = Auto-Restore Camera Speed
 Item_CameraZoomRestore_Desc = When you've moved around for a bit, the camera will return to its default camera distance. This setting controls how fast that happens.
