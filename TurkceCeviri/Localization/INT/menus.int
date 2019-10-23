@@ -137,23 +137,23 @@ Item_CameraDistance_Item_Standard = Standart
 Item_CameraDistance_Item_Far = Uzak
 Item_CameraDistance_Item_VeryFar = Çok Uzak
 
-Item_CameraZoomRestore_Title = Auto-Restore Camera Speed
-Item_CameraZoomRestore_Desc = When you've moved around for a bit, the camera will return to its default camera distance. This setting controls how fast that happens.
+Item_CameraZoomRestore_Title = Kamerayı Otomatik Ayarlama Hızı
+Item_CameraZoomRestore_Desc = Etrafta biraz dolaşırsan kamera eski haline döner. Bu ayar bu olayın ne kadar hızlı olacağını belirler.
 
 Header_Game_Misc = Misc
-Item_CameraUpscaling_Title = Instant Camera Picture Resolution
-Item_CameraUpscaling_Desc = The game item "Instant Camera" can take pictures at higher resolution than the game is in. Change this option to set at how high a resolution pictures should be taken (at the cost of pictures taking longer to capture).
-Item_CameraUpscaling_Item_0 = Same as game
+Item_CameraUpscaling_Title = Hızlı Kamera Resim Kalitesi
+Item_CameraUpscaling_Desc = Oyun eşyası " Hızlı Kamera " yüksek kaliteli fotoğraflar çekebilir (işlemesinin uzun sürmesi şartıyla).
+Item_CameraUpscaling_Item_0 = Oyun ile aynı
 
 Header_System = Sistem Ayarları
 Item_NoSaving_Title = Kaydetmek Yok
-Item_NoSaving_Desc = The game will not save your progress. This is not recommended unless you're doing a speedrun and do not care if your save data is not preserved.
+Item_NoSaving_Desc = Oyunu kaydetmez. Speedrun yapmadığınız ve kayıt dosyasıyla ilgilenmediğiniz durumlar dışında önerilmez.
 
 Item_DevConsole_Title = Geliştirici Konsolu
-Item_DevConsole_Desc = Allows access to the developer console. Press TAB / tilde to open.
+Item_DevConsole_Desc = Geliştirici konsoluna erişim verir. Tab tuşuna basarak konsolu açabilirsin.
 
 Item_DisableMods_Title = Eklentiler Kapalı
-Item_DisableMods_Desc = Turn off Steam Workshop & modding support for the pure, original experience. Restart required.
+Item_DisableMods_Desc = Steam Atölye ve Modlama desteğini saf oyun deneyimi için kapatır. Yeniden başlatma gerekir.
 
 Header_Debug = Debug
 
