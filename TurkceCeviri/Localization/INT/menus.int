@@ -158,20 +158,19 @@ Item_DisableMods_Desc = Steam Atölye ve Modlama desteğini saf oyun deneyimi i�
 Header_Debug = Debug
 
 [systemsettings.audio]
-Header_Audio = Audio
-Header_Volume = Volume
+Header_Audio = Ses
+Header_Volume = Seviye
 
-Item_MusicVolume_Title = Music Volume
-Item_MusicVolume_Desc = Adjusts background music volume. 100% is the recommended value, but you can increase the volume beyond that.
+Item_MusicVolume_Title = Müzik Sesi
+Item_MusicVolume_Desc = Arka plan müziği sesini ayarlar. % 100 önerilen değerdir, ancak ses seviyesini daha fazla yükseltebilirsiniz.
+Item_SoundEffectVolume_Title = Ses Efektleri
+Item_SoundEffectVolume_Desc = Ses Efektlerinin sesini ayarlar. % 100 önerilen değerdir, ancak ses seviyesini daha fazla yükseltebilirsiniz.
 
-Item_SoundEffectVolume_Title = Sound Effect Volume
-Item_SoundEffectVolume_Desc = Adjusts the volume of sound effects. 100% is the recommended value, but you can increase the volume beyond that.
+Item_VAVolume_Title = Diyalog Sesi
+Item_VAVolume_Desc = Mırıltı dahil olmak üzere konuşulan diyaloğun sesini ayarlar. % 100 önerilen değerdir, ancak ses seviyesini daha fazla yükseltebilirsiniz.
 
-Item_VAVolume_Title = Dialogue Volume
-Item_VAVolume_Desc = Adjusts the volume of spoken dialogue, including mumble. 100% is the recommended value, but you can increase the volume beyond that.
-
-Item_MasterVolume_Title = Master Volume
-Item_MasterVolume_Desc = Adjusts the volume of the entire game. 100% is the recommended value, but you can increase the volume beyond that.
+Item_MasterVolume_Title = Ana Ses
+Item_MasterVolume_Desc = Tüm oyunun sesini ayarlar. % 100 önerilen değerdir, ancak ses seviyesini daha fazla yükseltebilirsiniz.
 
 Item_VolumeOnFocusLost_Title = Out of Focus Volume
 Item_VolumeOnFocusLost_Desc = Adjusts the volume of the game when the game window is not in focus.
