@@ -211,7 +211,7 @@ Item_FrameRate_Desc = İzin verilen maksimum kare hızını veya saniye başına
 Item_FrameRate_Item_Unlocked = Açık
 
 Item_VSync_Title = VSync
-Item_VSync_Desc = Forces the game to render at your monitor's refresh rate. This gets rid of screen tearing, but at the cost of delayed input. This option is rarely recommended.
+Item_VSync_Desc = Oyunu monitörtüüzün yenileme hızında çalışması için zorlar. Ekran yırtılmalarını önlese de oyunun hızını düşürür. Bu ayar nadiren önerilir.
 
 Item_Gamme_Title = Gama Parlaklığı
 Item_Gamme_Desc = Oyunun parlaklığını yapılandırır. Oyunun bazı bölümleri çok karanlık gibi geliyorsa, bunu açmayı düşünün.
@@ -245,29 +245,29 @@ Item_EffectsQuality_Desc = Yumuşatma, çiçeklenme ve alan derinliği gibi işl
 Item_LightingQuality_Title = Gölge Kalitesi
 Item_LightingQuality_Desc = Gölgelerin görsel kalitesini ve hangi nesnelerde gölge olmasına izin verildiğini belirler. Daha yüksek kalite daha keskin gölgeler ve daha fazla gölge tekeri sağlar. Bunu düşürmek önemli bir performans artışı sağlar.
 ; Advanced
-Item_AdvancedGraphicsSettings_Title = Advanced Graphics Settings
-Item_AdvancedGraphicsSettings_Desc = Open the menu to configure all graphical options individually.
+Item_AdvancedGraphicsSettings_Title = Gelişmiş Grafik Ayarları
+Item_AdvancedGraphicsSettings_Desc = Tüm grafik ayarlarını el ile değiştirmek için size bir menü sunar.
 
 ; Automatic
-Item_AutomaticGraphicsSettings_Title = Automatic Graphics Settings
-Item_AutomaticGraphicsSettings_Desc = Your graphics settings are configured automatically as you play, optimized for best performance!
+Item_AutomaticGraphicsSettings_Title = Otomatik Grafik Ayarları
+Item_AutomaticGraphicsSettings_Desc = Oyununuz oynadıkça ayarlarınızı değiştirerek en yüksek performansı ve görselliği sunar!
 
-Header_Adv_Characters = Characters
-Item_Adv_SkelMeshLODBias_Title = Character Model LOD Bias
-Item_Adv_SkelMeshLODBias_Desc = As you get further away from character models, they will gradually decrease in quality. Increasing this setting increases how far they can be before this happens.
+Header_Adv_Characters = Karakterler
+Item_Adv_SkelMeshLODBias_Title = Karakter Model Poligon Düşürümü
+Item_Adv_SkelMeshLODBias_Desc = Karakterlerden uzaklaştıkça çizim kaliteleri düşer. Bu ayarı arttırmak çizim kalitesinin en az nerede düşürüleceğini belirler.
 
-Item_Adv_Jigglebones_Title = Dynamic Character Physics
-Item_Adv_Jigglebones_Desc = When enabled, cloth, hair and other components on certain characters will be simulated based on their movement. For the player character, this includes things like her cape, hair and zipper.
+Item_Adv_Jigglebones_Title = Dinamik Karakter
+Item_Adv_Jigglebones_Desc = Aktifleştirildiğinde karakterlerin hareketine göre saç vb. şeylerin simüle edilmesini sağlar. Oynadığınız karakter için şapka, pelerin vb. simüle edilmesi sağlanır.
 
-Item_Adv_CharacterTextureQuality_Title = Character Texture Quality
-Item_Adv_CharacterTextureQuality_Desc = Determines the resolution of textures on characters. The lowest setting will enforce a maximum texture resolution of 256x256, while the highest can go up to 4096x4096.
+Item_Adv_CharacterTextureQuality_Title = Karakter Doku Çözünürlüğü
+Item_Adv_CharacterTextureQuality_Desc = Karakterin dokusunun çözünürlüğünü ayarlar. En az 256x256, en fazla 2048x2048.
 
-Header_Adv_Environment = Environment
-Item_Adv_DetailMode_Title = Environment Detail
-Item_Adv_DetailMode_Desc = [[option2]]: All detail models (foliage, faraway islands) and detail particle effects (butterflies, dust) will display.[newline][[option1]]: Most detail models will display, and no detail particle effects will display.[newline][[option0]]: No detail models or particle effects will display.
+Header_Adv_Environment = Çevre
+Item_Adv_DetailMode_Title = Çevre Detayı
+Item_Adv_DetailMode_Desc = [[option2]]: Tüm detaylı modeller (uzak adalar, çalılar) ve efektler (kelebekler, toz) için ayar sağlar [newline][[option1]]: Tüm model detayları görüntülenir, efektler kısılır.[newline][[option0]]: Hiçbir detay veya efekt gösterilmez.
 
-Item_Adv_DrawDistance_Title = Draw Distance
-Item_Adv_DrawDistance_Desc = As you get further away from some environment models, they will gradually decrease in quality and eventually disappear altogether. Increasing this setting increases how far they can be before this happens. A higher value means higher quality backgrounds, but at a significant performance cost. This option has a big impact on performance.
+Item_Adv_DrawDistance_Title = Çizim uzaklığı
+Item_Adv_DrawDistance_Desc = Etraftaki nesnelerden uzaklaştıkça kaliteleri düşer ve yok olurlar. Bu ayarı arttırmak ne kadar uzakta olacağını belirler. Yüksek ayar, yüksek performansa karşılık yüksek kalitede arkaplanlar sağlar. Bu ayarın performans üzerinde çok büyük etkisi vardır.
 
 Item_Adv_AnisotropicFiltering_Title = Anisotropic Filtering
 Item_Adv_AnisotropicFiltering_Desc = When some textures are viewed at an angle (like floors), they become blurry the further they are away from the camera. Anisotropic Filtering improves this for every degree of anisotropy; anisotropy 16 will be twice as sharp as anisotropy of 8.
