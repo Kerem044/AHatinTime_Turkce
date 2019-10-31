@@ -211,7 +211,7 @@ Item_FrameRate_Desc = İzin verilen maksimum kare hızını veya saniye başına
 Item_FrameRate_Item_Unlocked = Açık
 
 Item_VSync_Title = VSync
-Item_VSync_Desc = Oyunu monitörtüüzün yenileme hızında çalışması için zorlar. Ekran yırtılmalarını önlese de oyunun hızını düşürür. Bu ayar nadiren önerilir.
+Item_VSync_Desc = Oyunu monitörünüzün yenileme hızında çalışması için zorlar. Ekran yırtılmalarını önlese de oyunun hızını düşürür. Bu ayar nadiren önerilir.
 
 Item_Gamme_Title = Gama Parlaklığı
 Item_Gamme_Desc = Oyunun parlaklığını yapılandırır. Oyunun bazı bölümleri çok karanlık gibi geliyorsa, bunu açmayı düşünün.
