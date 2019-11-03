@@ -694,9 +694,9 @@ unlocks0 = Tons of unlockable outfits, flairs,
 unlocks1 = dyes, and even camera filters!
 
 coop_title = Yeni Açılan: CO-OP
-coop_bullet0 = Play the entire adventure
-coop_bullet1 = and help eachother to survive
-coop_bullet2 = in split-screen shenanigans!
+coop_bullet0 = Bütün macerayı
+coop_bullet1 = bölünmüş ekranda
+coop_bullet2 = arkadaşınla beraber oyna!
 
 dlc2_title = Yeni: Nyakuza Metro'su
 dlc2_bullet0 = Collect 10 all-new Time Pieces
@@ -709,7 +709,7 @@ ghostparty_bullet1 = or strangers in this
 ghostparty_bullet2 = new online mode!
 
 newgamebowkid_title = Teşekkür ederim!
-newgamebowkid_bullet0 = Thank you for being a superfan!
+newgamebowkid_bullet0 = Desteğin için çok sağ ol!
 newgamebowkid_bullet1 = You can now start a new adventure
 newgamebowkid_bullet2 = with Bow Kid as the main star!
 
@@ -729,7 +729,7 @@ Unlock = Unlock
 Disable = Disable
 Enable = Enable
 Play = Play
-HardMode = Enable Hard Mode
+HardMode = Zor Modu Etkinleştir
 Reset = Reset Contract
 Tip = Snatcher's Tip
 Debug = DEBUG Complete/Wipe
@@ -739,17 +739,17 @@ ResetDeathwishConfirm = Rip and tear!
 ResetDeathwishDeny = Stop!!!
 
 [DeathWishEasyMode]
-EasyMode0 = No one is around to help
-EasyMode1 = Life is hard, life is stressful
-EasyMode2 = I need peace and tranquility
-EasyMode3 = I don't have to prove myself to anyone
-EasyMode4 = Should I make this Death Wish a bit easier for you?
+EasyMode0 = Yardım edecek kimse yok
+EasyMode1 = Hayat zor ve stresli
+EasyMode2 = Huzura ihtiyacım var
+EasyMode3 = Kendimi kanıtlamama gerek yok
+EasyMode4 = Ölüm Arzu'nu biraz daha kolaylaştırayım mı?
 EasyShort = Welcome back to the no-judgement zone
 EasyExit = No worries, keep me in mind when things get heated
 EasyAccept0 = Presto! This Death Wish is now easier!
-EasyAccept1 = Have a cool day!
-ButtonYes = Yes please!
-ButtonNo = Nope!
+EasyAccept1 = İyi günler karşim!
+ButtonYes = Evet lütfen!
+ButtonNo = Hayır!
 
 EasyNamePre = Do you want
 EasyNamePost = now available for this Death Wish
@@ -765,7 +765,7 @@ EasyName8 = to enable EZ Modo???
 EasyName9 = to enable Nice Wish
 
 [InventoryCamera]
-Help_TakePicture = Take Picture
+Help_TakePicture = Fotoğraf Çek
 Help_ChangeFilter = Change Filter
 Help_ChangeDoF = Change Depth of Field
 Help_EnableDoF = Enable Depth of Field
@@ -778,18 +778,18 @@ Help_Sticker_Rotate = Rotate
 Help_Sticker_Zoom = Zoom
 Help_Sticker_Grab = Grab
 
-Msg_Filter = Filter
+Msg_Filter = Filtre
 Msg_DoF = Depth of Field
 Msg_EnabledDoF = Depth of Field enabled
 Msg_DisabledDoF = Depth of Field disabled
 Filter_None = #NoFilter
 
-Category_Filters = Style
-Category_Poses = Poses
+Category_Filters = Stil
+Category_Poses = Pozlar
 Category_Lens = Lens
-Category_Camera = Camera
+Category_Camera = Kamera
 Category_Stickers = Stickers
-DoF_FocusDistance = Focus
+DoF_FocusDistance = Odakla
 
 Item_HatKidPose = Pose
 Pose_None = None
@@ -807,31 +807,31 @@ Pose_11 = Yessir
 Item_HatKidExpression = Face
 Expression_None = None
 Expression_1 = Angery
-Expression_2 = Happy
-Expression_3 = Surprised
+Expression_2 = Mutlu
+Expression_3 = Şaşırmış
 Expression_4 = Hurtin'
-Expression_5 = Nervous
+Expression_5 = Gergin
 Expression_6 = Bleph
 Expression_7 = Nostalgic
 Expression_8 = Hewwo
 Expression_9 = Fed Up
 
-Item_CameraType = Camera Type
+Item_CameraType = Kamera Tipi
 Item_CameraType_Free = Free
 Item_CameraType_Orbit = Orbit
 
 Item_OutputType = Output
-Item_OutputType_Screenshot = Screenshot
-Item_OutputType_Gif = Animated Gif
+Item_OutputType_Screenshot = Ekran görüntüsü
+Item_OutputType_Gif = Hareketli resim
 
-Item_ScreenshotFolder = Screenshot Folder
-Item_ScreenshotFolder_View = Open...
+Item_ScreenshotFolder = Ekran Resimleri
+Item_ScreenshotFolder_View = Aç...
 
 [MetroFood]
-UndiscoveredCombo = An undiscovered combo is available, can you find it?
+UndiscoveredCombo = Keşfedilmemiş bir combo mevcut, bulabilir misin?
 
 [Stickers]
-NewRareSticker = A rare sticker has appeared in [location] - go find it!
-NewRareStickerUnknownLocation = A rare sticker has appeared somewhere - go find it!
-MachineNoRareSticker = The machine is detecting no anomalies right now, maybe it will pick up a signal later.
-MachineRareSticker = The machine has detected a rare signal, the signal says...[br][stickerloc]
+NewRareSticker = [location] konumunda nadir bir çıkartma belirdi - bul bakalım!
+NewRareStickerUnknownLocation = Nadir bir çıkartma belirdi - bul bakalım!
+MachineNoRareSticker = Makine şu an bir anormallik bulamadı, belki sonra bir sinyal saptar.
+MachineRareSticker = Makine nadir bir sinyal saptadı, sinyal diyor ki...[br][stickerloc]
