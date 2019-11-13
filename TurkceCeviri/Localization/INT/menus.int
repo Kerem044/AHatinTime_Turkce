@@ -272,25 +272,25 @@ Item_Adv_DrawDistance_Desc = Etraftaki nesnelerden uzaklaştıkça kaliteleri d�
 Item_Adv_AnisotropicFiltering_Title = Anisotropic Filtering
 Item_Adv_AnisotropicFiltering_Desc = When some textures are viewed at an angle (like floors), they become blurry the further they are away from the camera. Anisotropic Filtering improves this for every degree of anisotropy; anisotropy 16 will be twice as sharp as anisotropy of 8.
 
-Item_Adv_WorldTextureQuality_Title = World Texture Quality
-Item_Adv_WorldTextureQuality_Desc = Determines the resolution of textures on the environment. The lowest setting will enforce a maximum texture resolution of 256x256, while the highest can go up to 4096x4096.
+Item_Adv_WorldTextureQuality_Title = Dünya Doku Detayı
+Item_Adv_WorldTextureQuality_Desc = Çevrenin Dokusunu Ayarlar. En Düşük Ayar 256x256 İken En Fazla 2048x2048 Olabilir.
 
-Item_Adv_Fog_Title = World Fog
-Item_Adv_Fog_Desc = Renders fog in the environment. This is somewhat expensive on low-end systems.
+Item_Adv_Fog_Title = Dünya Sisi
+Item_Adv_Fog_Desc = Çevredeki Sis Çıktısını Ayarlar. Bu Ayar Nedense Düşük Sistemleri Zorlar.
 
-Item_Adv_Translucency_Title = Translucency
-Item_Adv_Translucency_Desc = Renders translucent objects, surfaces and particles.
-Item_Adv_Translucency_None = None
-Item_Adv_Translucency_Normal = Single Pass
-Item_Adv_Translucency_SepTrans = Double Pass
+Item_Adv_Translucency_Title = Yarı Saydamlık
+Item_Adv_Translucency_Desc = Yarı Saydam Objeleri, Nesneleri Ve Efektlerin Çıktıları.
+Item_Adv_Translucency_None = Gösterme
+Item_Adv_Translucency_Normal = Tek Geçiş
+Item_Adv_Translucency_SepTrans = Çift Geçiş
 
-Header_Adv_Lighting = Lighting
+Header_Adv_Lighting = Işıklandırma
 
-Item_Adv_MaxShadowResolution_Title = Shadow Resolution
-Item_Adv_MaxShadowResolution_Desc = Determines the per-object shadow texture resolution.
+Item_Adv_MaxShadowResolution_Title = Gölge Çözünürlüğü
+Item_Adv_MaxShadowResolution_Desc = Her Objenin Gölgesinin Çözünürlüğünü Ayarlar.
 
-Item_Adv_DominantDirectionalLight_Title = Environment Lighting/Shadow Quality
-Item_Adv_DominantDirectionalLight_Desc = The renderer to use for environment lighting and shadows.
+Item_Adv_DominantDirectionalLight_Title = Çevre Işıklandırma/Gölgelendirme Çıktısı
+Item_Adv_DominantDirectionalLight_Desc = Bu Çıktı Işıklandırma Va Gölgelendirmeyi Etkiler.
 
 Item_Adv_ParticleShadows_Title = Particle Shadows
 Item_Adv_ParticleShadows_Desc = Whether particles should cast shadows.
