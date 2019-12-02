@@ -413,17 +413,19 @@ Item_NewController_Item_New = New
 
 Item_ConfigureController_Item_Configure = Configure
 
+// Alpha bölümü kullanılmıyor çevirmek size kalmış ayrıca bu metini en son düzenlemede silin.
+
 [alpha_warnings]
 alpha0 = Thank you so much for participating in the first [name]A HAT IN TIME 2017 SPEEDRUNNING EVENT[/name]! Keep in mind this preview is all about going fast, no time to stop and smell the flowers!
 alpha1 = So if you'd like your first impression of [name]A Hat in Time[/name] to be an experience at your own pace, feel free to sit this one out! It's OK, the full game releases [hint]October 5th[/hint]!
 alpha2 = Make sure to record your run, and upload it to [name]speedrun.com[/name]. Good luck!![br]- [name]Gears for Breakfast[/name]
 
 [System_Warnings]
-SteamVerifyIntegrityGameCache = [name]ATTENTION[/name][br]It appears a crash has recently occured.[br]Please [hint]verify integrity of game cache[/hint] for the game, or [hint]disable any mods you have installed[/hint], if issues persist.
-UsingIntegratedGPU0 = [name]ATTENTION[/name][br]Your laptop is currently using the [hint]integrated GPU[/hint] instead of the[br][hint]dedicated GPU[/hint].
-UsingIntegratedGPU1 = Please open your [hint]NVidia Control Panel[/hint] or [hint]AMD Control Center[/hint] and set[br]A Hat in Time to use the dedicated GPU.
-BrokenControllerSoftware0 = [name]ATTENTION[/name][br]You're currently using 3rd party gamepad software such as [hint]Joy2Key[/hint]. It's not needed! A Hat in Time supports most controllers out of the box... very likely yours, too!
-BrokenControllerSoftware1 = Consider turning off the software you're using, and see if A Hat in Time works with your controller by default!
+SteamVerifyIntegrityGameCache = [name]UYARI[/name][br]Görünüşe göre yakın zamanda oyun bir hata sebebiyle kapandı.[br]Lütfen [hint]oyunun dosyalarını Steam'dan[/hint] kontrol edin, veya [hint]indirdiğiniz tüm modları kapatın[/hint].
+UsingIntegratedGPU0 = [name]ATTENTION[/name][br]Bilgisayarınız şu anda [br][hint]Harici GPU[/hint] yerine [hint]dahili GPU[/hint] kullanıyor.
+UsingIntegratedGPU1 = Lütfen [hint]NVidia Control Panel[/hint] veya [hint]AMD Control Center[/hint] uygulamasını açıp[br]A Hat in Time uygulamasının harici ekran kartını kullanmasını sağlayın.
+BrokenControllerSoftware0 = [name]ATTENTION[/name][br]Şu anda [hint]Joy2Key[/hint] gibi 3. parti bir yazılım kullanıyorsunuz. Buna gerek yok! A Hat in Time neredeyse bütün kontrolcüleri destekler. Büyük ihtimalle seninkini de!
+BrokenControllerSoftware1 = Kullandığınız yazılımı kapatın ve A Hat In Time büyük ihtimalle kontrolcünüzü tanımlayacaktır!
 
 [Loadout]
 TimePieces_Main = Main
@@ -828,7 +830,7 @@ Item_ScreenshotFolder = Ekran Resimleri
 Item_ScreenshotFolder_View = Aç...
 
 [MetroFood]
-UndiscoveredCombo = Keşfedilmemiş bir combo mevcut, bulabilir misin?
+UndiscoveredCombo = Keşfedilmemiş bir kombo mevcut, bulabilir misin?
 
 [Stickers]
 NewRareSticker = [location] konumunda nadir bir çıkartma belirdi - bul bakalım!
