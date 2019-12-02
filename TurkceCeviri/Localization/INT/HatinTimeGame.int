@@ -1,17 +1,17 @@
 [levels]
-Chapter1_MafiaTown = Mafia Town
-Act_1_1 = Welcome to Mafia Town
+Chapter1_MafiaTown = Mafya Kasabası
+Act_1_1 = Mafya Kasabasına Hoşgeldin!
 Act_1_2 = Barrel Battle
 Act_1_3 = She Came from Outer Space
 Act_1_4 = Down with the Mafia!
-Act_1_5 = Cheating the Race
+Act_1_5 = Hileli Yarış
 Act_1_6 = Heating up Mafia Town
 Act_1_7 = The Golden Vault
-Location_MafiaTown = Mafia Town
+Location_MafiaTown = Mafia Kasabası
 Location_MafiaHQ = Mafia HQ
 
 Chapter1_Bonus_Secret_Sewer = Sewers
-Chapter1_Bonus_Secret_Bazaar = Bazaar
+Chapter1_Bonus_Secret_Bazaar = Pazar
 Chapter1_Bonus_Cave_Intro = Mafia of Cooks
 Chapter1_Bonus_Cave_Raccoon = Sleepy Subcon
 
@@ -51,30 +51,30 @@ Chapter4_Bonus_Cats = Curly Tail Trail
 TimeRift_Water_Alp_Goats = Twilight Bell
 TimeRift_Cave_Alps = Alpine Skyline
 
-Chapter5_Finale = Time's End
-act_5_1 = The Finale
+Chapter5_Finale = Bitme Zamanı
+act_5_1 = Son
 
 Chapter6_Cruise = The Arctic Cruise
 Cruise_Act1 = Bon Voyage!
 Cruise_Act2 = Ship Shape
 Cruise_Act3 = Rock the Boat
 TimeRift_Cave_Cruise = Deep Sea
-TimeRift_Water_Cruise_Slide = Balcony
+TimeRift_Water_Cruise_Slide = Balkon
 
-Spaceship_WaterRift_Gallery = The Gallery
-Spaceship_WaterRift_MailRoom = The Lab
-TimeRift_Cave_Tour = Tour
+Spaceship_WaterRift_Gallery = Galeri
+Spaceship_WaterRift_MailRoom = Laboratuvar
+TimeRift_Cave_Tour = Tur
 
-Location_DreamWorld_Water = Time Rift - Blue
-Location_DreamWorld_Cave = Time Rift - Purple
-Location_Spaceship = The Spaceship
-Location_Bookstore = Time's End
+Location_DreamWorld_Water = Kum Saati - Mavi
+Location_DreamWorld_Cave = Kum Saati - Mor
+Location_Spaceship = Uzay Gemisi
+Location_Bookstore = Bitme Zamanı
 
-FreeRoam = Free Roam
-TimeRift = Time Rift
+FreeRoam = Özgürce Dolaşma
+TimeRift = Kum Saati
 DeathWish = Death Wish
 NiceWish = Nice Wish
-Community = Community Map
+Community = Topluluk Haritaları
 
 TimeRift_Cave_RhythmJumpStudio = Rhythm Jump Studio
 TimeRift_Cave_TwilightTravels = Twilight Travels
@@ -82,8 +82,8 @@ TimeRift_Cave_MountainRift = The Mountain Rift
 
 secretlevel_beta_space = Beta Hero's Challenge
 
-Chapter7_Metro = Nyakuza Metro
-Location_Metro_HUB = Main Station
+Chapter7_Metro = Nyakuza Metro'su
+Location_Metro_HUB = Ana İstasyon
 Location_Metro_RouteA = Yellow Overpass Station
 Location_Metro_RouteB = Green Clean Station
 Location_Metro_RouteC = Bluefin Tunnel
@@ -149,8 +149,8 @@ TOTD_DCad = Term of the Day: Deceptive Cadence
 TOTD_Rondo = Term of the Day: Rondo
 TOTD_Allegro = Term of the Day: Allegro
 
-TP_Secured = TIME PIECE SECURED!
-TP_Detected = TIME PIECE DETECTED!
+TP_Secured = KUM SAATİ GÜVENDE!
+TP_Detected = KUM SAATİ BULUNDU!
 TimeRift = Crashed Time Piece has created a Time Rift
 TimeRift_Cave = Time Piece fell and hit someone
 
