@@ -422,27 +422,27 @@ alpha2 = Make sure to record your run, and upload it to [name]speedrun.com[/name
 
 [System_Warnings]
 SteamVerifyIntegrityGameCache = [name]UYARI[/name][br]Görünüşe göre yakın zamanda oyun bir hata sebebiyle kapandı.[br]Lütfen [hint]oyunun dosyalarını Steam'dan[/hint] kontrol edin, veya [hint]indirdiğiniz tüm modları kapatın[/hint].
-UsingIntegratedGPU0 = [name]ATTENTION[/name][br]Bilgisayarınız şu anda [br][hint]Harici GPU[/hint] yerine [hint]dahili GPU[/hint] kullanıyor.
+UsingIntegratedGPU0 = [name]UYARI[/name][br]Bilgisayarınız şu anda [br][hint]Harici GPU[/hint] yerine [hint]dahili GPU[/hint] kullanıyor.
 UsingIntegratedGPU1 = Lütfen [hint]NVidia Control Panel[/hint] veya [hint]AMD Control Center[/hint] uygulamasını açıp[br]A Hat in Time uygulamasının harici ekran kartını kullanmasını sağlayın.
-BrokenControllerSoftware0 = [name]ATTENTION[/name][br]Şu anda [hint]Joy2Key[/hint] gibi 3. parti bir yazılım kullanıyorsunuz. Buna gerek yok! A Hat in Time neredeyse bütün kontrolcüleri destekler. Büyük ihtimalle seninkini de!
+BrokenControllerSoftware0 = [name]UYARI[/name][br]Şu anda [hint]Joy2Key[/hint] gibi 3. parti bir yazılım kullanıyorsunuz. Buna gerek yok! A Hat in Time neredeyse bütün kontrolcüleri destekler. Büyük ihtimalle seninkini de!
 BrokenControllerSoftware1 = Kullandığınız yazılımı kapatın ve A Hat In Time büyük ihtimalle kontrolcünüzü tanımlayacaktır!
 
 [Loadout]
 TimePieces_Main = Main
-TimePieces_Bonus = Time Rifts
-Loadout_Swap_Hat = Select a Hat!
-Loadout_Swap_Skin = Select a Color!
+TimePieces_Bonus = Kum Saati
+Loadout_Swap_Hat = Şapka Seç!
+Loadout_Swap_Skin = Renk Seç!
 Loadout_Swap_Badge = Select a Badge!
-Loadout_Swap_Weapon = Select a Weapon!
-Loadout_Swap_Sticker = Select a Sticker!
+Loadout_Swap_Weapon = Silah Seç!
+Loadout_Swap_Sticker = Yapıştırıcı Seç!
 Loadout_BadgeLocked = You need [yarn][num] [icon:yarn]yarn[/yarn] to stitch this!
 Loadout_BadgeLocked_Affordable = Press [button:menuconfirm] to spend [yarn][num] [icon:yarn]yarn[/yarn] to stitch!
 
-Loadout_AbilityActivation_Trigger = Activate
-Loadout_AbilityActivation_Jump = Jump
-Loadout_AbilityActivation_Automatic = Automatic
-Loadout_AbilityActivation_Attack = Attack
-Loadout_AbilityActivation_Weapon = Weapon
+Loadout_AbilityActivation_Trigger = Aktif
+Loadout_AbilityActivation_Jump = Zıpla
+Loadout_AbilityActivation_Automatic = Otomatik
+Loadout_AbilityActivation_Attack = Saldır
+Loadout_AbilityActivation_Weapon = Silah
 
 Options_ReturnToHUB_Q = Save & Return to Hub?
 Options_ReturnToHUB_NoSaving_Q = Return to Hub?
@@ -453,9 +453,9 @@ Options_QuitGame_InGame_A_MainMenu = Ana Menü!
 Options_QuitGame_InGame_A_Desktop = Masaüstü!
 Options_QuitGame_InGame_A_Return = Geri Dön!
 
-Label_Equipment = EQUIPMENT
+Label_Equipment = EKİPMANLAR
 Label_Badges = BADGES
-Label_Weapon = WEAPON
+Label_Weapon = SİLAHLART
 Label_Contract = Anlaşma
 
 Options_RestartLevel_Q = Restart the act?
@@ -468,7 +468,7 @@ Coop_CantEnableDeathWish = Unavailable for co-op
 Coop_CantEnableDWActive = Can't enable co-op while a Death Wish is active
 Coop_Disable_Question = Disable Coop?
 Coop_Disable_Confirm = Disable
-Coop_Disable_Deny = Go back
+Coop_Disable_Deny = Geri Dön
 
 Backpack_Level_Collectables = Level Collectables
 
