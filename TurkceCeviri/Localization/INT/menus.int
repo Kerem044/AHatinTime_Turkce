@@ -455,8 +455,8 @@ Options_QuitGame_InGame_A_Return = Geri Dön!
 
 Label_Equipment = EKİPMANLAR
 Label_Badges = BADGES
-Label_Weapon = SİLAHLART
-Label_Contract = Anlaşma
+Label_Weapon = SİLAHLAR
+Label_Contract = ANLAŞMA
 
 Options_RestartLevel_Q = Restart the act?
 Options_RestartDeathWish_Q = Restart the Death Wish?
