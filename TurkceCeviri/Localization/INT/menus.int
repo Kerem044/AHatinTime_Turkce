@@ -60,7 +60,7 @@ Item_Language_Title = Dil
 Item_Language_Desc = Yazının sunulacağı dil. Konuşma sesini etkilemez (Konuşma ayarını ses ayarlarından değiştirebilirsiniz).
 
 Item_SkipCinematics_Title = Atlanabilir Sahneleri Atla
-Item_SkipCinematics_Desc = Eğer acelen varsa, veya oyunu zaten bitirmişsen bu ayar senin için tüm sahneleri atlar. Sinematikleri bu ayar açık olmasa bile atlayabileceğinizi unutmayın.
+Item_SkipCinematics_Desc = Eğer acelen varsa veya oyunu zaten bitirmişsen bu ayar senin için tüm sahneleri atlar. Sinematikleri bu ayar açık olmasa bile atlayabileceğinizi unutmayın.
 
 
 Header_Accessibility = Erişilebilirlik
@@ -200,7 +200,7 @@ Item_DisplayMonitor_Desc = Monitör oyunu görüntüleyecek.[newline][[option:It
 Item_DisplayMonitor_Item_Default = Varsayılan
 
 Item_MultiMonitorSetup_Title = Çoklu Monitör Kurulumu
-Item_MultiMonitorSetup_Desc = Oyunu kaç tane monitör göstermesi gerektiğini değiştirin.
+Item_MultiMonitorSetup_Desc = Oyunu kaç tane monitör göstermesi gerektiğini değiştirin?
 
 Item_Configure = Yapılandır...
 
