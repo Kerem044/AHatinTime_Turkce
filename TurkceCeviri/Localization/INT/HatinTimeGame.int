@@ -33,17 +33,17 @@ Chapter2_Bonus_Vanessa = Village
 Chapter2_Bonus_Cave = Pipe
 
 Chapter3_Trainwreck = Battle of the Birds
-Act_3_1 = Dead Bird Studio
+Act_3_1 = Dead Bird Şirketi
 Act_3_2 = Murder on the Owl Express
-Act_3_3 = Picture Perfect
+Act_3_3 = Mükemmel Resim
 Act_3_4 = Train Rush
 Act_3_5 = The Big Parade
 Act_3_6 = Award Ceremony
 Location_ScienceExpress = The Owl Express
-Location_Moon = The Moon
+Location_Moon = Ay
 TimeRift_Water_TWreck_Panels = The Owl Express
 TimeRift_Water_TWreck_Parade = The Moon
-TimeRift_Cave_TWreck_Basement = Dead Bird Studio
+TimeRift_Cave_TWreck_Basement = Dead Bird Şirketi
 
 Chapter4_Sand = Alpine Skyline
 alpine_finale = The Illness Has Spread
@@ -76,7 +76,7 @@ DeathWish = Death Wish
 NiceWish = Nice Wish
 Community = Topluluk Haritaları
 
-TimeRift_Cave_RhythmJumpStudio = Rhythm Jump Studio
+TimeRift_Cave_RhythmJumpStudio = Rhythm Jump Şirketi
 TimeRift_Cave_TwilightTravels = Twilight Travels
 TimeRift_Cave_MountainRift = The Mountain Rift
 
@@ -96,7 +96,7 @@ Metro_ManholeC = Pink Paw Manhole
 Metro_CaveRift_RumbiFactory = Rumbi Factory
 
 [ActInfoBoxDetails]
-Population_MafiaTown = Population: 379
+Population_MafiaTown = Ünlenme: 379
 Population_MafiaTown_Less = Population: Less than before since I made them go boom
 Population_MafiaTown_Fried = Population: Lots of fried Mafia
 Population_MafiaTown_Boss = Population: One less soon
