@@ -1,23 +1,23 @@
 [camera_unlock]
-CameraStolen0 = That darn seagull over there took my camera!
-CameraStolen1 = I wouldae donne belly dive over there, but this belly is too precious for sliding on!
+CameraStolen0 = Şuradaki lanet martı benim kameramı çaldı!
+CameraStolen1 = Bombalama atlayışı yapardım, ama bu göbek öyle birşey için fazla değerli!
 
-CameraRetrieved0 = You got my camera? Wow, thanks, kid! But I've actually got a ton of cameras in reserve. I don't need it.
-CameraRetrieved1 = I was just looking for an excuse to yell at seagulls. You can keep it.
+CameraRetrieved0 = Kameramı mı aldın? Vay be, sağ ol evlat! Ama yedekte zaten tonlarca kameram var, şu an ona ihtiyacım yok.
+CameraRetrieved1 = Sadece martılara bağırmak için bahane arıyordum. Kamera sende kalabilir.
 
 [mafia_town]
-TownIsSoBig0 = This town is so big! The attractions are pretty cool,[br]but I'll tell ya kid, nothing beats going to the moon!
+TownIsSoBig0 = Bu kasaba gerçekten de büyük! Bu turistik yerler oldukça güzel,[br]ama sana söylüyorum evlat, hiçbir şey aya gitmek kadar güzel olamaz!
 
 [finale]
-inside0 = I think this jump is a [br]bit much for me and [br]my camera...
-touristexterior0 = Look, kid, I gotta be frank. Of all the places I've been visiting, this is unquestionably the worst.
-touristexterior1 = You've gotta go in there and show that girl who's boss[br]so that I can get back on the moon![br]The moon was much more fun than this!
-touristexterior2 = I believe in you, kid.
+inside0 = Sanırım bu atlayış [br]ben ve kameram için [br]biraz fazla...
+touristexterior0 = Bak, evlat. Dürüst olacağım. O kadar yer ziyaret ettim, ama burası sorgusuz sualsiz en kötüsü.
+touristexterior1 = Oraya gidip şu kıza kimin sözünün burada geçtiğini göstermelisin[br]bu sayede aya geri dönebilirim![br]Ay bundan çok daha eğlenceliydi!
+touristexterior2 = Sana inanıyorum, evlat.
 
 [moon]
-moon0 = The moon is pretty alright, kid. It feels great finally being here after all these years!
-moon1 = But that darn Steve from work sent me a postcard from the sun! He says it's great! [br]I can't believe that guy, always trying to one-up me!
+moon0 = Ay gerçekten de güzel, evlat. Bu kadar yıldan sonra tekrar burda olmak çok güzel.
+moon1 = Ama lanet iş arkadaşım bana güneşten bir kartpostal gönderdi! Güneşin güzel olduğunu söylüyor! [br]Bu adama gerçekten inanamıyorum, her zaman bir adım önde olmaya çalışıyor!
 
 [subcon]
-touristsubcon0 = This is alright. I can see myself having a picnic here.[br]Still, it's no moon.[br]Gotta get up there so I can send a postcard to Steve from work.
-touristsubcon1 = Steve from work went to the moon last spring. He said it was great.[br]Darn Steve. He always has to one up me.[br] I'll show him with a postcard from the moon!
+touristsubcon0 = Bu fena değil. Knedimi burada piknik yaparken görebiliyorum [br]Yinede, bir ay değil.[br]İş arkadaşım Steve'e bir kartpostal göndermek için geri oraya çıkmalıyım.
+touristsubcon1 = İş arkadaşım Steve geçen bahar aya gitmiş. Oranın güzel olduğunu söyledi.[br]Lanet Steve. Her zaman bir adım önüme geçmek zorunda.[br] Ona aydan bir kartpostalla gününü göstereceğim!

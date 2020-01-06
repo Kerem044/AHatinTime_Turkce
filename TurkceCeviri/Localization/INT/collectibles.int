@@ -1,65 +1,65 @@
 [general]
-YouGotItem0 = You got [plural][name][itemname][/name]![custom0]
+YouGotItem0 = [plural][name][itemname][/name]![custom0] aldın
 custom0 = [custom0]
 custom1 = [custom1]
 custom2 = [custom2]
 custom3 = [custom3]
 
-Plural0 = A
-Plural1 = An
+Plural0 = Bir
+Plural1 = Bir
 
-TwoItemsAnd = and
+TwoItemsAnd = ve
 
-GenericYarnSuffix = Yarn
-GenericHatSuffix = Hat
-GenericFlairSuffix = Flair
+GenericYarnSuffix = İplik
+GenericHatSuffix = Şapka
+GenericFlairSuffix = İçgüdü
 
 [trigger_abilities]
-BadgeCollect0 = It requires [yarn][badgepoints_required] [icon:yarn]yarn[/yarn] to stitch; only [yarn][badgepoints_left][/yarn] to go!
-BadgeCollect1 = It requires [yarn][badgepoints_required] [icon:yarn]yarn[/yarn] to stitch, and you've got [yarn][badgepoints_player][/yarn]! Press [button:start] to open the pause menu, where you can stitch it!
-BadgeCollect2 = It requires [yarn][badgepoints_required] [icon:yarn]yarn[/yarn] to stitch!
-BadgeCollect3 = You've got enough [yarn][icon:yarn]yarn[/yarn] to stitch it!
-BadgeCollect4 = You already have this hat, but you get [yarn]+1 [icon:yarn]yarn[/yarn] anyway!
+BadgeCollect0 = Bunu dikebilmek için [yarn][badgepoints_required] [icon:yarn]ipliğe[/yarn] ihtiyacın var; sadece [yarn][badgepoints_left][/yarn]kaldı!
+BadgeCollect1 = Bunu dikebilmek için [yarn][badgepoints_required] [icon:yarn]ipliğe[/yarn] ihtiyacın var, ve [yarn][badgepoints_player][/yarn] var! [button:start] düğmesine basıp bunları dikebileceğin yeri açabilirsin!
+BadgeCollect2 = Bunu dikebilmek için [yarn][badgepoints_required] [icon:yarn]ipliğe[/yarn] ihtiyacın var!
+BadgeCollect3 = Bunu dikebilmek için yeterli [yarn][icon:yarn]ipliğe[/yarn] sahipsin!
+BadgeCollect4 = Bu şapkaya zaten sahipsin, ama her türlü [yarn]+1 [icon:yarn]iplik[/yarn] alacaksın!
 
-UnknownName = ??? Hat
-UnknownDescLocked0 = No description.
-UnknownDescTech0 = This hat does not seem to have any purpose.
+UnknownName = ??? Şapka
+UnknownDescLocked0 = Açıklama yok.
+UnknownDescTech0 = Bu şapka herhangi bir özellik sağlamıyor.
 
-SprintName = Sprint Hat
-SprintDescLocked0 = This yarn is looking ready to sprint!
-SprintDescLockedHat = This hat is looking ready to sprint!
-SprintDesc0 = Hold [button:badge] to sprint!
+SprintName = Hız Şapkası
+SprintDescLocked0 = Bu iplik koşmaya hazır görünüyor!
+SprintDescLockedHat = Bu şapka koşmaya hazır görünüyor!
+SprintDesc0 = Koşmak için [button:badge] düğmesine basılı tut!
 
-StatueFallName = Ice Hat
-StatueFallFun0 = It's so cold!
-StatueFallTech0 = Hold [button:badge] to do a ground pound!
+StatueFallName = Buz Şapkası
+StatueFallFun0 = Oldukça soğuk!
+StatueFallTech0 = Yer Ezişi kullanmak için [button:badge] düğmesine basılı tut!
 
-HoverName = Floating Hat
-HoverDescFun0 = Float away from a sticky situation!
-HoverDescTech0 = Press and hold [button:badge] to float for a bit!
+HoverName = Süzülen Şapka
+HoverDescFun0 = Tatsız bir durumdan süzülerek kaç!
+HoverDescTech0 = Kısa bir süreliğine süzülmek için [button:badge] düğmesine basılı tut!
 
-HelpName = Kid's Hat
-HelpDescTech0 = Press [button:badge] to search for the next [icon:timepiece][timepiece]Time Piece[/timepiece]!
-HelpUsage = Use your [icon:activehat] to find your goal!
+HelpName = Çocuğun Şapkası
+HelpDescTech0 = Sıradaki [icon:timepiece][timepiece]Zaman Parçasını[/timepiece] araştırmak için [button:badge] düğmesine basılı tut!
+HelpUsage = Hedefine ulaşmak için [icon:activehat] kullan!
 
-ChemicalName = Brewing Hat
-ChemicalDescFun0 = Cook up mad concoctions!
-ChemicalDescTech0 = Press [button:badge] to throw an explosive concoction!
+ChemicalName = Karışım Şapkası
+ChemicalDescFun0 = Çılgın karışımlar hazırla!
+ChemicalDescTech0 = Patlayıcı bir karışım fırlatmak için [button:badge] düğmesine bas!
 
-TimeStopName = Time Stop Hat
-TimeStopDescFun0 = Death is inevitable, your time is valuable.
-TimeStopDescTech0 = Press [button:badge] to slow down time!
+TimeStopName = Zaman Durdurma Şapkası
+TimeStopDescFun0 = Ölüm kaçınılmaz, zamanın çok değerli.
+TimeStopDescTech0 = Zamanı yavaşlatmak için [button:badge] düğmesine bas!
 
-FoxMaskName = Dweller Mask
-FoxMaskDescFun0 = This is some spooky yarn!
-FoxMaskDescHat0 = This is one spooky mask!
-FoxMaskDescTech0 = Press [button:badge] to see the world through a dweller's eyes!
+FoxMaskName = Tilki Maskesi
+FoxMaskDescFun0 = Bu biraz korkutucu bir iplikmiş!
+FoxMaskDescHat0 = Bu biraz korkutucu bir maske!
+FoxMaskDescTech0 = Dünyayı tilkinin gözünden görmek için [button:badge] düğmesine bas!
 
-DetectiveHatName = Crime Solving Outfit
-DetectiveHatDesc0 = Time to solve crime! Watch out for this tiny detective!
+DetectiveHatName = Suç Çözme Kıyafeti
+DetectiveHatDesc0 = Suç çözme zamanı! Bu küçük detektife dikkat edin!
 
-ParadeHatName = Parade Outfit
-ParadeHatDesc0 = The leader that this town needs!
+ParadeHatName = Geçit Töreni Kıyafeti
+ParadeHatDesc0 = Kasabanın ihtiyacı olan bir lider!
 
 [abilities]
 UnknownName = ??? Ability
