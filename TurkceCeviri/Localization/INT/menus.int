@@ -1,4 +1,4 @@
-[systemsettings.global]
+﻿[systemsettings.global]
 SystemSetting_DefaultValue = Varsayılan:
 SystemSetting_Value_Checked = İşaretlenmiş
 SystemSetting_Value_Unchecked = İşaretlenmemiş
@@ -50,7 +50,7 @@ InputSettings_Icon_InvertAxis = EKSENİ ÇEVİR
 Header_Singleplayer = Tek Oyuncu
 
 Item_SpeedrunTimer_Title = Speedrun Sayacı
-Item_SpeedrunTimer_Desc = Her level için bitirme sürenizi sayar.
+Item_SpeedrunTimer_Desc = Her seviye için bitirme sürenizi sayar.
 Item_SpeedrunTimer_Item_Off = Kapalı
 Item_SpeedrunTimer_Item_On = Açık
 Item_SpeedrunTimer_Item_GameOnly = Sadece Oyun Süresi
@@ -470,7 +470,7 @@ Coop_Disable_Question = Co-op'u kapat?
 Coop_Disable_Confirm = Kapat
 Coop_Disable_Deny = Geri Dön
 
-Backpack_Level_Collectables = Level toplanabilirleri
+Backpack_Level_Collectables = Seviye Toplanabilirleri
 
 [MainMenu]
 FileSelect_File = Dosya
@@ -545,8 +545,8 @@ MenuConfirm = Yes!
 MenuDecline = No!
 
 [LevelChange]
-RetryLevelQuestion = Retry this Act?
-RetryDeathWishQuestion = Retry this Death Wish?
+RetryLevelQuestion = Bölümü Tekrarla?
+RetryDeathWishQuestion = Ölüm Dileğini Tekrarla?
 RetryLevel_Yes = Tekrar Dene
 RetryLevel_HUB = Return to Hub
 
@@ -636,7 +636,7 @@ Category_AllLevels = TÜM BÖLÜMLER
 Category_Chapters = CHAPTERS
 Category_TimeRifts = KUM SAATİ 
 Category_HatsAndBadges = ŞAPKALAR & İPLİKLER
-Category_Collectibles = COLLECTIBLES
+Category_Collectibles = TOPLANABİLİRLER
 Category_Misc = MISC
 Category_Featured = FEATURED
 Category_ChallengeRoad = CHALLENGE ROAD
@@ -680,9 +680,9 @@ ZoomInContract = Zoom In
 ClickToRoll = To Roll
 ClickToReRoll = Re-Roll
 ClickToClaimPrize = Claim This Prize
-PrizeHat = New Hat
+PrizeHat = Yeni Şapka
 PrizeFlair = Hat Flair
-PrizeDye = New Color
+PrizeDye = Yeni Renk
 PrizeRemix = New Remix
 PrizeBadge = New Badge
 PrizeBadgeFlair = Badge Flair
@@ -727,10 +727,10 @@ Splash_ViewStorePage_NintendoSwitch = Nintendo eShop
 [DeathWishMap]
 Locked = Act Locked
 Reward = Claim Reward!
-Unlock = Unlock
+Unlock = Açık
 Disable = Disable
-Enable = Enable
-Play = Play
+Enable = Aktif
+Play = Oyna
 HardMode = Zor Modu Etkinleştir
 Reset = Reset Contract
 Tip = Snatcher's Tip
