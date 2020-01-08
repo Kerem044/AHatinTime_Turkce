@@ -1,68 +1,68 @@
 [internal]
-captainAttention0 = Attention... this is your Captain speaking.
-speaker0 = Is this thing turned on? Ahem...
-speaker1 = All passengers, please check in at the lobby desk! I'll be on board shortly...
-speaker2 = Attention, passengers. And 'crew'.
-speaker3 = The ship is now leaving. Please try not to fall off.
-speaker4 = [wave]Bing! Bong! Bing! Bong![/wave]
+captainAttention0 = Dikkat...Kaptanınız konuşuyor.
+speaker0 = Bu şey açık mı?Ehem...
+speaker1 = Tüm yolcular, lütfen işlemlerinizi lobiden hallediniz, kısa süre içerisinde gemide olacağım...
+speaker2 = Yolcuların dikkatine. Ve "tayfanın"
+speaker3 = Gemi birazdan kalkışa geçiyor, düşmemeye çalışın!
+speaker4 = [wave]Ding! Dong! Ding! Dong![/wave]
 
-captain0 = I'm busy, pup. This ship doesn't steer itself.
-captain1 = I said I'm busy, pup.
-captain2 = Don't you have anything better to do? 
-captain3 = They don't pay me enough for this...
+captain0 = Şu an meşgulüm delikanlı. Bu gemi kendi kendine hareket edemez.
+captain1 = Sana meşgulüm dedim, evlat.
+captain2 = Yapacak daha iyi bir işin yok mu senin? 
+captain3 = Bana bunun için yeteri kadar ödeme yapmıyorlar...
 
-leftshard1 = ...What do you want, pup? One of the crew hurt themselves again?
-leftshard2 = What do I look like, a doctor? [hint]Kiss[/hint] it better yourself.
+leftshard1 = ...Ne istiyorsun, delikanlı? Tayfadan biri yine kendine mi zarar verdi?
+leftshard2 = Oradan bakınca doktor gibi mi gözüküyorum? [hint]Öp[/hint] bari de geçsin.
 
 [act2]
-captainAttention0 = Attention... this is your Captain speaking.
-captain0 = What's that, pup? [br]You want to help out?
-captain1 = Hmph. Sure. Maybe something will get done around this mess of a boat for once. It'd be a first.
-captain2 = Alright. You'll need to deliver drinks, some food, and a few other things. And do it quickly, pup.
-captain3 = Oh, and there are some other jobs that'll need doing. So pay attention. Are you ready to start?
-captain4 = Well, come back when you are. This ship isn't going to clean itself up.
-captain5 = Good. You can start by getting rid of some of these boxes for me. It's starting to get messy in here...
-captainFail0 = Just like the seals... that's no good. You just made more of a mess, pup. Try again. Or don't, whatever.
-captainDone0 = You can stop now, pup. Come back to Control, I guess.
-captainDone1 = Well... looks like you actually cleaned up more mess than you made, pup. That's more than most of the crew can manage.
-captainDone2 = Help yourself to something from the Lost and Found. Nobody ever comes back for that stuff anyway.
+captainAttention0 = Dikkat dikkat... Kaptanınız konuşuyor.
+captain0 = Ne o, delikanlı? [br]Yardımcı mı olmak istiyorsun?
+captain1 = Hm. Elbette. Belki bu rezil botta bir kere olsun birşey yolunda gider. Bu bir ilk olurdu.
+captain2 = Pekala. Bu içecekleri, yiyecekleri ve birkaç şeyi daha teslim etmen gerek. Ve elini çabuk tut, delikanlı.
+captain3 = Ah, ve yapılması gereken başka işlerde var. Biraz dikkatini vermelisin. Başlamak için hazır mısın?
+captain4 = Pekala, hazır olduğunda yine gel. Bu gemi kendi kendini temizleyemez.
+captain5 = Güzel. İşe benim için şu kutulardan kurtularak başlayabilirsin. Burası iyice dağılmaya başladı...
+captainFail0 = Aynı mühür gibi...Hiç de iyi değil. Etrafı sadece daha çok dağıttın delikanlı. Tekrar dene. Ya da deneme, herneyse.
+captainDone0 = Artık bırakabilirsin, delikanlı. Sanırım artık Kaptan Köşkü'ne gelebilirsin.
+captainDone1 = Pekala... görünen o ki yaptığından daha çok dağınıklık topladın delikanlı. Koskoca bir tayfanın yapabileceğinden bile daha fazla.
+captainDone2 = Kayıp Eşyalar Dolabı'ndan birşeyler alabilirsin. Zaten kimse o eşyalar için geri dönmüyor.
 
-yes = Heck yeah!
-no = Nooo!
+yes = İşte bu!
+no = Yooo!
 
 [docks]
-captain0 = Uh... you look a little young to be sailing alone, pup.
-captain1 = Whatever. Just don't get in anyone's way. The 'crew' do enough of that already.
-captain2 = See the walkway, pup? What a mess...
-captain3 = How is anyone supposed to get up that thing? 
-captain4 = They can't even make a straight walkway. Surprised the whole thing doesn't fall apart.
+captain0 = Ah... kendine başına yelken açmak için biraz küçük gözüküyorsun evlat.
+captain1 =Herneyse. Yeter ki kimseye engel olma. O işi geminin tayfası zaten yerine getiriyor.
+captain2 = Patikayı görüyor musun delikanlı? Ne pis bir yer...
+captain3 = Birinin bu şeyi nasıl kaldırması gerekiyor? 
+captain4 = Düzgün bir patika bile yapamıyorlar. Koskoca şeyin yıkılmamasına şaşıyorum.
 
 [act3]
-captainbar0 = Do I not look busy to you, pup? Go play somewhere.
-captainbar1 = Let an old captain relax. The seals can handle things for a minute.
-captainbar2 = Hopefully, they've learned not to mess with [hint]the steering wheel[/hint] by now...
+captainbar0 = Ordan bakınca meşgul değil gibi mi gözüküyorum evlat? Git başka yerde oyna.
+captainbar1 = Bu yaşlı kaptanın biraz dinlenmesine izin ver. Mühürler işleri biraz da olsa idare edebilir.
+captainbar2 = [hint]Dümeni[/hint] kurcalamamayı şimdiye kadar öğrenmiş olmalarını umalım...
 
-loudspeaker0 = Hewwo! The captwain has a messa-
-loudspeaker1 = Hand me that microphone! [scream]Who's at the wheel?![/scream]
-loudspeaker2 = [scream]We're headed straight for an iceberg! [br]All hands on deck![/scream]
+loudspeaker0 = Heyya! Kaptanınızdan bir mesa-
+loudspeaker1 = Mikrofonu bana ver! [scream]Dümendeki kişi kim?![/scream]
+loudspeaker2 = [scream]Diek bir buzdağına yöneliyoruz! [br]Herkes sıkı tutunsun![/scream]
 
-start0 = It's all going down, pup. I never thought I'd see the day.
+start0 = Herşey bitti delikanlı. Bu günleri göreceğimi bile düşünmezdim.
 start1 = Her maiden voyage, too. Won't take more than a few minutes for all of this to hit the sea floor, I think.
-start2 = Well, you might want to get to a lifeboat, pup. It'd be smart.
+start2 = Pekala, bir cankurtaran botuna binmek isteyebilirsin, delikanlı. Zekice olurdu.
 
-loudspeaker3 = Don't wait up for me, pup. Get in a boat and scram.
-loudspeaker4 = This is my dang ship, and I'll go down with it.
+loudspeaker3 = Beni bekleme delikanlı. Bota bin ve var gücünle kürek çek.
+loudspeaker4 = Bu benim lanet gemim, ve ben onunla beraber gideceğim.
 
-carried0 = Put me down, pup!
-carried1 = Let go of me! Leave me be, pup!
-carried2 = How are you so strong?!
-carried3 = Put. Me. Down!
-carried4 = Let me go down with the ship!
-carried5 = Just let me drown, pup!
+carried0 = Bırak beni evlat!
+carried1 = Bırak beni! Beni yalnız bırak evlat!
+carried2 = Nasıl bu kadar güçlü olabiliyorsun?!
+carried3 = Beni. Yere. Bırak!
+carried4 = Gemiyle beraber batmama izin ver!
+carried5 = Bırak da boğulayım delikanlı!
 
 
-captain0 = *Sigh* Pup, why wouldn't you just let me go down with my ship? I can't drown, but at least I could pretend for a bit.
-captain1 = Hmph, although without me, this crew'll never be able to get the lifeboats to shore. Fine. Crew, let's go home.
-captain2 = Hopefully our insurance covers this...
-captain3 = Anyway, I can't give out refunds, but it looks like there's something shiny on that iceberg over there? Funny how our ship crashed right next to it.
-captain4 = It's all yours pup.
+captain0 = *İç çekerek* Delikanlı, neden sadece gemimle beraber batmama izin vermedin Boğulamıyorum belki ama, en azından rol yapabilirdim.
+captain1 = Hm, bu tayfa bensiz bile bu botları kıyıya asla ulaştıramaz. Peki. Ekip, hadi eve gidelim.
+captain2 = Umarım sigorta bunu da karşılar...
+captain3 = Yine de, kimseye iade veremem, Ama o buzdağında parlak birşeyler var gibi? Gemimizin tam yanına çarpması gülünç bir durum.
+captain4 = Hepsi senindir delikanlı.
