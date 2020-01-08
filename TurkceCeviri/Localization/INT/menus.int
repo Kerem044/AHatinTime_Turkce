@@ -447,8 +447,8 @@ Loadout_AbilityActivation_Weapon = Silah
 Options_ReturnToHUB_Q = Save & Return to Hub?
 Options_ReturnToHUB_NoSaving_Q = Return to Hub?
 Options_QuitGame_Q = Oyundan Çık?
-Options_QuitGame_InGame_Q = Save & Exit to...
-Options_QuitGame_InGame_NoSaving_Q = Exit Without Saving to...
+Options_QuitGame_InGame_Q = Kaydet ve...
+Options_QuitGame_InGame_NoSaving_Q = Kaydetmeden...
 Options_QuitGame_InGame_A_MainMenu = Ana Menü!
 Options_QuitGame_InGame_A_Desktop = Masaüstü!
 Options_QuitGame_InGame_A_Return = Geri Dön!
@@ -458,19 +458,19 @@ Label_Badges = BADGES
 Label_Weapon = SİLAHLAR
 Label_Contract = ANLAŞMA
 
-Options_RestartLevel_Q = Restart the act?
-Options_RestartDeathWish_Q = Restart the Death Wish?
+Options_RestartLevel_Q = Bölümü yeniden başlat?
+Options_RestartDeathWish_Q = Ölüm Dileğini Yeniden Başlat?
 
-Coop_NoControllerPluggedIn = Please plug in a controller
-Coop_CantDisableRightNow = Can't disable co-op mode right now
-Coop_CantEnableRightNow = Can't enable co-op right now
-Coop_CantEnableDeathWish = Unavailable for co-op
-Coop_CantEnableDWActive = Can't enable co-op while a Death Wish is active
-Coop_Disable_Question = Disable Coop?
-Coop_Disable_Confirm = Disable
+Coop_NoControllerPluggedIn = Lütfen kontrolcü bağlayın
+Coop_CantDisableRightNow = Co-op şu anda kapatılamaz
+Coop_CantEnableRightNow = Co-op şu anda açılamaz
+Coop_CantEnableDeathWish = Co-op için uygun değil
+Coop_CantEnableDWActive = Ölüm Dileği aktifken Co-op açılamaz
+Coop_Disable_Question = Co-op'u kapat?
+Coop_Disable_Confirm = Kapat
 Coop_Disable_Deny = Geri Dön
 
-Backpack_Level_Collectables = Level Collectables
+Backpack_Level_Collectables = Level toplanabilirleri
 
 [MainMenu]
 FileSelect_File = Dosya
@@ -478,12 +478,12 @@ FileSelect_Progress_Completed = Tamamlandı
 FileSelect_New = Yeni Dosya Oluştur
 
 Action_Delete = Kaydı Sil
-Action_Delete_Q = Are you sure you want to[br]delete save [id]?
+Action_Delete_Q =  [id]'yi silmek istediğine emin misin?
 
 Action_NewGame = Yeni Oyun Başlat
-Action_NewGame_Q = Start a New Game?
+Action_NewGame_Q = Yeni oyun başlat?
 
-Action_SwitchUser = Switch User
+Action_SwitchUser = Kullanıcı değiştir
 
 YarnBall = Yarn Ball
 YarnBall_multiple = Yarn Balls
