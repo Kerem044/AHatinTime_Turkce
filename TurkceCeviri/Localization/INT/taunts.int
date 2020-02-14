@@ -1,6 +1,6 @@
 [exit]
-SleepWakeUp = Wake Up
-ClosetExit = Exit Closet
-GenericExit = Exit
-LeaveHiding = Stop Hiding
-ToggleFirstperson = Toggle First Person
+SleepWakeUp = Uyan
+ClosetExit = Dolaptan Çık
+GenericExit = Çık
+LeaveHiding = Saklanmayı Bırak
+ToggleFirstperson = 1. Şahıs Kamerasına Geç
